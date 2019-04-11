@@ -11,5 +11,6 @@ Congratulations on your new computer, Dave. Here's the steps to screw it up to t
 6. Download and install Pycharm
 7. Download and install VS Code
 8. Checkout repos
-9. ?
-10. Profit
+9. Install lots of python versions and create a web of aliases for them
+10. ?
+11. Profit
