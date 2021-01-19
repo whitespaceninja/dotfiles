@@ -23,7 +23,7 @@ alias ll='ls -la'
 alias treee='tree -I "*~"'
 
 # uses a newer version of emacs than the default terminal one
-alias emaks='/Applications/Emacs.app/Contents/MacOS/Emacs -nw'
+alias emacs='/Applications/Emacs.app/Contents/MacOS/Emacs -nw'
 
 # ====================================================================
 # JAVA STUFF
